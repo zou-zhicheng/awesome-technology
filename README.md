@@ -131,8 +131,6 @@ https://github.com/zou-zhicheng/awesome-fastapi
 
 # 8. 随想
 
-# 9. 开发环境
-
-开发环境的设置
-
-# 
+# 9. [工作环境](https://github.com/zou-zhicheng/awesome-environment)
+工作环境的设置, 包括家庭和公司的. 
+https://github.com/zou-zhicheng/awesome-environment   
