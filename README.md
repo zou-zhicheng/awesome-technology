@@ -20,14 +20,11 @@ Love Code, Cherish Life
 
 ## 1.2 后端
 
-### 1.2.1 Python
+### 1.2.1 [Python](python/index.md)
 
-### 1.2.2 Django
+### 1.2.2 [Java](java/index.md)
 
-### 1.2.3 [FastAPI](https://github.com/zou-zhicheng/awesome-fastapi)
-https://github.com/zou-zhicheng/awesome-fastapi 
-
-### 1.2.4 Flask
+### 1.2.3 [Go](go/index.md)
 
 ## 1.3 测试
 
