@@ -10,23 +10,35 @@ Love Code, Cherish Life
 
 ### 1.1.1 HTML
 
-### 1.1.2 CSS
+### 1.1.2 [CSS](https://github.com/zou-zhicheng/awesome-css)
+`https://github.com/zou-zhicheng/awesome-css`   
 
-### 1.1.3 JavaScript
+### 1.1.3 [JavaScript](https://github.com/zou-zhicheng/awesome-javascript)
+`https://github.com/zou-zhicheng/awesome-javascript`
 
-### 1.1.4 TypeScript
+### 1.1.4 [TypeScript](https://github.com/zou-zhicheng/awesome-typescript)
+`https://github.com/zou-zhicheng/awesome-typescript`
 
-### 1.1.5 NodeJS
+### 1.1.5 [NodeJS](https://github.com/zou-zhicheng/awesome-nodejs)
+`https://github.com/zou-zhicheng/awesome-nodejs`
+
+### 1.1.6 Vue
+
+### 1.1.7 [Angular](https://github.com/zou-zhicheng/awesome-angular)
+`https://github.com/zou-zhicheng/awesome-angular`
 
 ## 1.2 后端
 
 ### 1.2.1 [Python](python/index.md)
+`https://github.com/zou-zhicheng/awesome-python`   
 
 ### 1.2.2 [Java](java/index.md)
 
 ### 1.2.3 [Go](go/index.md)
+`https://github.com/zou-zhicheng/awesome-go`
 
 ## 1.3 测试
+`https://github.com/zou-zhicheng/awesome-automated-testing`   
 
 ### 1.3.1 Selenium
 
@@ -36,13 +48,16 @@ Love Code, Cherish Life
 
 ## 2.1 Docker
 
-## 2.2 Kubernates
+## 2.2 [Kubernates](https://github.com/zou-zhicheng/awesome-k8s)
+`https://github.com/zou-zhicheng/awesome-k8s`
 
 ## 2.3 OpenStack
 
-## 2.4 AWS
+## 2.4 [AWS](https://github.com/zou-zhicheng/awesome-aws)
+`https://github.com/zou-zhicheng/awesome-aws`  
 
-## 2.5 Azure
+## 2.5 [Azure](https://github.com/zou-zhicheng/awesome-azure)
+`https://github.com/zou-zhicheng/awesome-azure`
 
 ## 2.6 阿里云
 
@@ -130,4 +145,4 @@ Love Code, Cherish Life
 
 # 9. [工作环境](https://github.com/zou-zhicheng/awesome-environment)
 工作环境的设置, 包括家庭和公司的. 
-https://github.com/zou-zhicheng/awesome-environment   
+`https://github.com/zou-zhicheng/awesome-environment`   
