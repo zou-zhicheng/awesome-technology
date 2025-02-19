@@ -22,7 +22,8 @@ Love Code, Cherish Life
 ### 1.1.5 [NodeJS](https://github.com/zou-zhicheng/awesome-nodejs)
 `https://github.com/zou-zhicheng/awesome-nodejs`
 
-### 1.1.6 Vue
+### 1.1.6 [Vue](https://github.com/zou-zhicheng/awesome-vue.git)
+`https://github.com/zou-zhicheng/awesome-vue.git`
 
 ### 1.1.7 [Angular](https://github.com/zou-zhicheng/awesome-angular)
 `https://github.com/zou-zhicheng/awesome-angular`
