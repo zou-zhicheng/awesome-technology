@@ -120,7 +120,9 @@ Love Code, Cherish Life
 
 # 5. 人工智能
 
-# 6. 基础
+# 6. 安全
+
+# 7. 基础
 
 ## 电路
 
@@ -140,10 +142,10 @@ Love Code, Cherish Life
 
 ## 数据结构与算法
 
-# 7. STEAM
+# 8. STEAM
 
-# 8. 随想
+# 9. 随想
 
-# 9. [工作环境](https://github.com/zou-zhicheng/awesome-environment)
+# 10. [工作环境](https://github.com/zou-zhicheng/awesome-environment)
 工作环境的设置, 包括家庭和公司的. 
 `https://github.com/zou-zhicheng/awesome-environment`   
