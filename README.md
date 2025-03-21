@@ -19,6 +19,30 @@ Love Code, Cherish Life
 - 小程序
 - UniApp
 
+### 1.1.1 [HTML & CSS](https://github.com/zou-zhicheng/awesome-css)
+`https://github.com/zou-zhicheng/awesome-css`   
+
+### 1.1. 2 [JavaScript](https://github.com/zou-zhicheng/awesome-javascript)
+`https://github.com/zou-zhicheng/awesome-javascript`
+
+### 1.1. 3 [TypeScript](https://github.com/zou-zhicheng/awesome-typescript)
+`https://github.com/zou-zhicheng/awesome-typescript`
+
+### 1.1. 4 [NodeJS](https://github.com/zou-zhicheng/awesome-nodejs)
+`https://github.com/zou-zhicheng/awesome-nodejs`
+
+### 1.1. 5 [Vue](https://github.com/zou-zhicheng/awesome-vue.git)
+`https://github.com/zou-zhicheng/awesome-vue.git`
+
+### 1.1. 6 [Angular](https://github.com/zou-zhicheng/awesome-angular)
+`https://github.com/zou-zhicheng/awesome-angular`
+
+### 1.1. 7 [UniApp](https://github.com/zou-zhicheng/awesome-uniapp) 
+
+### 1.1. 8. React
+
+### 1.1. 9. Electron
+
 ## 1.2 后端
 
 ### 1.2.1 [Python](python/index.md)
